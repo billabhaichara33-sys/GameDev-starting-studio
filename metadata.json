@@ -1,0 +1,6 @@
+{
+  "name": "GameDev Starter Studio",
+  "description": "Professional 2D and 3D Godot-style game engine featuring dual-pipeline WebGL/Three.js 3D viewport, 2D scene editor, Godot node hierarchy, property inspector, signals system, multi-track animation player, audio bus mixer, and Windows/Android export pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
